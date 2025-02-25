@@ -375,11 +375,16 @@ def scrape_posterdb(soup):
             else:
                 title = title_split[0]
             year = title_split[-1].split(")")[0]
+            
+            try:
+                year = int(year)
+            except (ValueError, TypeError):
+                year = None
                 
             movieposter = {}
             movieposter["title"] = title
             movieposter["url"] = poster_url
-            movieposter["year"] = int(year)
+            movieposter["year"] = year
             movieposter["source"] = "posterdb"
             movieposters.append(movieposter)
         
