@@ -356,6 +356,8 @@ def scrape_posterdb(soup):
                     season = 0
                 elif "Season" in split_season:
                     season = int(split_season.split(" ")[1])
+                else: 
+                    season = "Cover"
             else:
                 season = "Cover"
             
