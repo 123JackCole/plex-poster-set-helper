@@ -1,11 +1,12 @@
 {
     "base_url": "http://127.0.0.1:32400",
-    "token": "",
+    "token": "3dRhP6HVhcRCXMqKPSbV",
     "bulk_files": [
         "bulk_import.txt"
     ],
     "tv_library": [
-        "TV Shows"
+        "TV Shows",
+        "Anime"
     ],
     "movie_library": [
         "Movies"

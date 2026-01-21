@@ -1,9 +1,142 @@
-https://theposterdb.com/set/13035
-https://mediux.pro/sets/12816
-https://mediux.pro/sets/10551
-https://mediux.pro/sets/21200
-https://mediux.pro/sets/1993
-https://mediux.pro/sets/208
-https://mediux.pro/sets/27633
-https://mediux.pro/sets/10988
-https://mediux.pro/sets/4394
+/////////////////////////////////////
+////////////  Movies  ///////////////
+/////////////////////////////////////
+
+// Alexpips
+https://theposterdb.com/user/Alexpips
+
+// Plex Criterion Project
+https://theposterdb.com/user/PlexCriterionProject
+https://theposterdb.com/user/vincehardy
+
+// kevinjohnston
+https://theposterdb.com/user/kevinjohnston
+
+/////////////////////////////////////
+/////////////  Shows  ///////////////
+/////////////////////////////////////
+
+//  Willtong93
+https://mediux.pro/user/willtong93
+
+// The 8 Show (2024)
+https://mediux.pro/sets/20803
+https://mediux.pro/sets/20802
+// Awkwafina is Nora From Queens (2020)
+https://mediux.pro/sets/13716
+https://mediux.pro/sets/34042
+// BLUE EYE SAMURAI (2023)
+https://mediux.pro/sets/2395
+https://mediux.pro/sets/22585
+// Conan O'Brien Must Go (2024)
+https://mediux.pro/sets/17554
+https://mediux.pro/sets/18493
+// The Curse (2023)
+https://mediux.pro/sets/16107
+// Dave (2020)
+https://mediux.pro/sets/9615
+https://mediux.pro/sets/22379
+// Eric (2024)
+https://mediux.pro/sets/21346
+https://mediux.pro/sets/21357
+// Evil (2019)
+https://mediux.pro/sets/17555
+// For All Mankind (2019)
+https://mediux.pro/sets/18990
+// Halo (2022)
+https://mediux.pro/sets/711
+// House (2004)
+https://mediux.pro/sets/17115
+// Interview with the Vampire (2022)
+https://mediux.pro/sets/13675
+https://mediux.pro/sets/18164
+// Nathan For You (2013)
+https://mediux.pro/sets/16176
+// Parasyte: The Grey (2024)
+https://mediux.pro/sets/17318
+https://mediux.pro/sets/17525
+// Quiet on Set: The Dark Side of Kids TV (2024)
+https://mediux.pro/sets/21343
+https://mediux.pro/sets/16083
+// Seinfeld (1989)
+https://mediux.pro/sets/696
+https://mediux.pro/sets/19168
+// South Park (1997)
+https://mediux.pro/sets/12932
+https://mediux.pro/sets/16280
+// Teen Titans (2003)
+https://mediux.pro/sets/12106
+https://mediux.pro/sets/17552
+
+/////////////////////////////////////
+/////////////  Anime  ///////////////
+/////////////////////////////////////
+
+// Attack on Titan (2013)
+https://mediux.pro/sets/6494
+https://mediux.pro/sets/15712
+// Berserk (1997)
+https://mediux.pro/sets/12510
+https://mediux.pro/sets/14697
+// Chainsaw Man (2022)
+https://mediux.pro/sets/7292
+https://mediux.pro/sets/15386
+// Claymore (2007)
+https://mediux.pro/sets/15315
+// Cowboy Bebop (1998)
+https://mediux.pro/sets/15965
+// Cyberpunk: Edgerunners (2022)
+https://mediux.pro/sets/22523
+// Date a Live (2013)
+https://mediux.pro/sets/15931
+// Death Note (2006)
+https://mediux.pro/sets/15197
+// Delicious in Dungeon (2024)
+https://mediux.pro/sets/22524
+// Demon Slayer: Kimetsu no Yaiba (2019)
+https://mediux.pro/sets/15638
+// Dragon Ball Z (1989)
+https://mediux.pro/sets/15466
+// Dragon Ball GT (1996)
+https://mediux.pro/sets/15515
+// Frieren: Beyond Journey's End (2023)
+https://mediux.pro/sets/11239
+https://mediux.pro/sets/15047
+// Fullmetal Alchemist: Brotherhood (2009)
+https://mediux.pro/sets/2308
+https://mediux.pro/sets/15626
+// Golden Boy (1995)
+https://mediux.pro/sets/17054
+// Hell's Paradise (2023)
+https://mediux.pro/sets/15340
+// High School of the Dead (2010)
+https://mediux.pro/sets/15398
+// High School D×D (2012)
+https://mediux.pro/sets/20332
+// Jujutsu Kaisen (2020)
+https://mediux.pro/sets/17465
+// Monster (2004)
+https://mediux.pro/sets/14667
+// Mushishi (2005)
+https://mediux.pro/sets/15650
+// Neon Genesis Evangelion (1995)
+https://mediux.pro/sets/15912
+// NieR:Automata Ver1.1a (2023)
+https://mediux.pro/sets/20235
+// One-Punch Man (2015)
+https://mediux.pro/sets/15457
+// One Piece (1999)
+https://mediux.pro/sets/6412
+https://mediux.pro/sets/21281
+// Oshi no Ko (2023)
+https://mediux.pro/sets/15266
+// Prison School (2015)
+https://mediux.pro/sets/15397
+// The Promised Neverland (2019)
+https://mediux.pro/sets/15516
+// Solo Leveling
+https://mediux.pro/sets/14938
+Vinland Saga (2019)
+https://mediux.pro/sets/22447
+// Zom 100 (2023)
+https://mediux.pro/sets/14820
