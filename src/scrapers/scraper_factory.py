@@ -39,7 +39,7 @@ class ScraperFactory:
         # Each thread will use requests-based scraping instead
         if "theposterdb.com" in url:
             return self._scrape_posterdb(url)
-        elif "mediux.pro" in url and "sets" in url:
+        elif "mediux.pro" in url and ("sets" in url or "user" in url):
             return self._scrape_mediux(url)
         elif ".html" in url:
             return self._scrape_local_html(url)

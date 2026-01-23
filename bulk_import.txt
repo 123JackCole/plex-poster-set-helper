@@ -3,7 +3,7 @@
 ///////////////////////////////////////
 //
 //// Alexpips
-https://theposterdb.com/user/Alexpips
+//https://theposterdb.com/user/Alexpips
 //
 //// Plex Criterion Project
 //https://theposterdb.com/user/PlexCriterionProject
@@ -17,7 +17,8 @@ https://theposterdb.com/user/Alexpips
 ///////////////////////////////////////
 //
 ////  Willtong93
-//https://mediux.pro/user/willtong93
+https://mediux.pro/user/willtong93
+//https://mediux.pro/sets/41899
 //
 //// The 8 Show (2024)
 //https://mediux.pro/sets/20803

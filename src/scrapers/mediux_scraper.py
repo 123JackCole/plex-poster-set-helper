@@ -1,5 +1,7 @@
 """MediUX scraper implementation."""
 
+import math
+import re
 from typing import List, Tuple
 
 from ..core.models import PosterInfo
@@ -25,13 +27,103 @@ class MediuxScraper(BaseScraper):
         """Scrape posters from MediUX.
         
         Args:
-            url: MediUX set URL.
+            url: MediUX set URL OR User Profile URL.
+            
+        Returns:
+            Tuple of (movie_posters, show_posters, collection_posters).
+        """
+        if "/user/" in url:
+            return self.scrape_user_uploads(url)
+        
+        soup = self.fetch_page(url)
+        return self._parse_mediux(soup)
+    
+    def scrape_user_uploads(self, url: str) -> Tuple[List[PosterInfo], List[PosterInfo], List[PosterInfo]]:
+        """Scrape all uploads from a user's page.
+        
+        Args:
+            url: User profile URL.
             
         Returns:
             Tuple of (movie_posters, show_posters, collection_posters).
         """
         soup = self.fetch_page(url)
-        return self._parse_mediux(soup)
+        pages = self._get_user_page_count(soup)
+        
+        if not pages:
+            print(f"Could not determine the number of pages for {url}")
+            return [], [], []
+        
+        # Clean URL
+        if "?" in url:
+            url = url.split("?")[0]
+        
+        all_movie_posters = []
+        all_show_posters = []
+        all_collection_posters = []
+        
+        base_url = url.removesuffix('/sets')
+        
+        for page in range(pages):
+            print(f"Scraping page {page + 1} of {pages}.")
+            page_url = f"{base_url}/sets?page={page + 1}"
+            
+            grid_soup = self.fetch_page(page_url)
+            set_links = self.scrape_sets_from_page(grid_soup)
+            
+            for set_link in set_links:
+                movie_posters, show_posters, collection_posters = self.scrape(set_link)
+                all_movie_posters.extend(movie_posters)
+                all_show_posters.extend(show_posters)
+                all_collection_posters.extend(collection_posters)
+        
+        return all_movie_posters, all_show_posters, all_collection_posters
+    
+    def _get_user_page_count(self, soup) -> int:
+        """Get number of pages for user uploads.
+        
+        Args:
+            soup: BeautifulSoup object.
+            
+        Returns:
+            Number of pages or None.
+        """
+        try:
+            set_link = soup.find('a', href=lambda href: href and href.endswith('/sets'))
+            if set_link:
+                raw_text = set_link.get_text(strip=True)
+                number_str = re.sub(r'\D', '', raw_text)
+                upload_count = int(number_str)
+                pages = math.ceil(upload_count / 12)
+                
+                return pages
+        except:
+            return None
+        
+    def scrape_sets_from_page(self, soup) -> List[str]:
+        """Extract all set links from a user sets page.
+        
+        Args:
+            soup: BeautifulSoup object.
+            
+        Returns:
+            List of set URLs.
+        """
+        set_links = []
+        try:
+            headings = soup.select('h3 a')
+            
+            for link in headings:
+                href = link.get('href')
+                if href and '/sets/' in href:
+                    full_url = f"https://mediux.pro{href}" if href.startswith('/') else href
+                    set_links.append(full_url)
+            
+            return set_links
+            
+        except Exception as e:
+            print(f"Error scraping set links: {e}")
+            return []
     
     def _parse_mediux(self, soup) -> Tuple[List[PosterInfo], List[PosterInfo], List[PosterInfo]]:
         """Parse MediUX page for posters.
