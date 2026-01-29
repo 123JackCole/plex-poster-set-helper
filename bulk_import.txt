@@ -39,7 +39,6 @@ https://mediux.pro/user/willtong93
 
 // The 8 Show (2024)
 https://mediux.pro/sets/20803
-https://mediux.pro/sets/20802
 // Awkwafina is Nora From Queens (2020)
 https://mediux.pro/sets/13716
 https://mediux.pro/sets/34042
@@ -51,40 +50,29 @@ https://mediux.pro/sets/17554
 https://mediux.pro/sets/18493
 // The Curse (2023)
 https://mediux.pro/sets/16107
-// Dave (2020)
-https://mediux.pro/sets/9615
-https://mediux.pro/sets/22379
 // Eric (2024)
 https://mediux.pro/sets/21346
-https://mediux.pro/sets/21357
 // Evil (2019)
 https://mediux.pro/sets/17555
-// For All Mankind (2019)
-https://mediux.pro/sets/18990
 // Halo (2022)
 https://mediux.pro/sets/711
 // House (2004)
 https://mediux.pro/sets/17115
 // Interview with the Vampire (2022)
 https://mediux.pro/sets/13675
-https://mediux.pro/sets/18164
 // Nathan For You (2013)
 https://mediux.pro/sets/16176
 // Parasyte: The Grey (2024)
 https://mediux.pro/sets/17318
-https://mediux.pro/sets/17525
 // Quiet on Set: The Dark Side of Kids TV (2024)
 https://mediux.pro/sets/21343
 https://mediux.pro/sets/16083
 // Seinfeld (1989)
 https://mediux.pro/sets/696
-https://mediux.pro/sets/19168
 // South Park (1997)
 https://mediux.pro/sets/12932
-https://mediux.pro/sets/16280
 // Teen Titans (2003)
 https://mediux.pro/sets/12106
-https://mediux.pro/sets/17552
 
 /////////////////////////////////////
 /////////////  Anime  ///////////////
