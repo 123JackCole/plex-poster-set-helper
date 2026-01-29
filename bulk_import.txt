@@ -1,3 +1,21 @@
+/////////////////////////////////////
+/////////////  Anime  ///////////////
+/////////////////////////////////////
+
+// kwickflix (Old Anime)
+// At top because they also have show posters
+https://mediux.pro/user/kwickflix
+
+// praythea (Anime)
+// At top because they also have show/movie posters
+https://mediux.pro/user/praythea
+
+// MiniZaki (Anime Posters)
+https://mediux.pro/user/minizaki
+
+// Anime (Anime Title Cards)
+https://mediux.pro/user/iambeingsarcastic
+
 ///////////////////////////////////////
 //////////////  Movies  ///////////////
 ///////////////////////////////////////
@@ -16,7 +34,7 @@ https://theposterdb.com/user/kevinjohnston
 /////////////  Shows  ///////////////
 /////////////////////////////////////
 
-//  Willtong93
+// Willtong93 (Show Sets)
 https://mediux.pro/user/willtong93
 
 // The 8 Show (2024)
@@ -72,71 +90,19 @@ https://mediux.pro/sets/17552
 /////////////  Anime  ///////////////
 /////////////////////////////////////
 
+// Vryolaka
+https://mediux.pro/user/vryolaka
+
+// vaporycoder
+https://mediux.pro/user/vaporycoder
+
 // Attack on Titan (2013)
-https://mediux.pro/sets/6494
 https://mediux.pro/sets/15712
 // Berserk (1997)
 https://mediux.pro/sets/12510
-https://mediux.pro/sets/14697
-// Chainsaw Man (2022)
-https://mediux.pro/sets/7292
-https://mediux.pro/sets/15386
-// Claymore (2007)
-https://mediux.pro/sets/15315
-// Cowboy Bebop (1998)
-https://mediux.pro/sets/15965
 // Cyberpunk: Edgerunners (2022)
 https://mediux.pro/sets/22523
-// Date a Live (2013)
-https://mediux.pro/sets/15931
-// Death Note (2006)
-https://mediux.pro/sets/15197
 // Delicious in Dungeon (2024)
-https://mediux.pro/sets/22524
-// Demon Slayer: Kimetsu no Yaiba (2019)
-https://mediux.pro/sets/15638
-// Dragon Ball Z (1989)
-https://mediux.pro/sets/15466
-// Dragon Ball GT (1996)
-https://mediux.pro/sets/15515
-// Frieren: Beyond Journey's End (2023)
-https://mediux.pro/sets/11239
-https://mediux.pro/sets/15047
+https://mediux.pro/sets/37081
 // Fullmetal Alchemist: Brotherhood (2009)
 https://mediux.pro/sets/2308
-https://mediux.pro/sets/15626
-// Golden Boy (1995)
-https://mediux.pro/sets/17054
-// Hell's Paradise (2023)
-https://mediux.pro/sets/15340
-// High School of the Dead (2010)
-https://mediux.pro/sets/15398
-// High School D×D (2012)
-https://mediux.pro/sets/20332
-// Jujutsu Kaisen (2020)
-https://mediux.pro/sets/17465
-// Monster (2004)
-https://mediux.pro/sets/14667
-// Mushishi (2005)
-https://mediux.pro/sets/15650
-// Neon Genesis Evangelion (1995)
-https://mediux.pro/sets/15912
-// NieR:Automata Ver1.1a (2023)
-https://mediux.pro/sets/20235
-// One-Punch Man (2015)
-https://mediux.pro/sets/15457
-// One Piece (1999)
-https://mediux.pro/sets/6412
-https://mediux.pro/sets/21281
-// Oshi no Ko (2023)
-https://mediux.pro/sets/15266
-// Prison School (2015)
-https://mediux.pro/sets/15397
-// The Promised Neverland (2019)
-https://mediux.pro/sets/15516
-// Solo Leveling
-https://mediux.pro/sets/14938
-Vinland Saga (2019)
-https://mediux.pro/sets/22447
-// Zom 100 (2023)
-https://mediux.pro/sets/14820
