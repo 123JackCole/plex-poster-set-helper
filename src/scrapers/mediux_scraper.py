@@ -2,6 +2,8 @@
 
 import math
 import re
+import math
+import re
 from typing import List, Tuple
 
 from ..core.models import PosterInfo
@@ -27,7 +29,7 @@ class MediuxScraper(BaseScraper):
         """Scrape posters from MediUX.
         
         Args:
-            url: MediUX set URL.
+            url: MediUX set URL OR User Profile URL.
             
         Returns:
             Tuple of (movie_posters, show_posters, collection_posters).
