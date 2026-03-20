@@ -180,7 +180,7 @@ class MediuxScraper(BaseScraper):
             check_title = "Unknown"
             
             # If you don't own the show, you don't need any posters from it.
-            if "show" in data_dict["set"]:
+            if data_dict["set"].get("show"):
                 check_title = data_dict["set"]["show"]["name"]
                 try:
                     check_year = int(data_dict["set"]["show"]["first_air_date"][:4])
@@ -191,7 +191,7 @@ class MediuxScraper(BaseScraper):
                     should_skip = True
 
             # If the set is for ONE movie and you don't own it, skip it.
-            elif "movie" in data_dict["set"]:
+            elif data_dict["set"].get("movie"):
                 check_title = data_dict["set"]["movie"]["title"]
                 try:
                     check_year = int(data_dict["set"]["movie"]["release_date"][:4])
